@@ -19,7 +19,7 @@
 - 📚 Estudante do último semestre de Gestão Empresarial e 1° semestre de Ciência da Computação
 - 🚀 Integrante da 1° turma do Fellowship Web Dev Sirius (Python, SQL, UX e produto, HTML, CSS, Javascript, Java e Django)
 - 📆 Hoje trabalho com redes satelitais e terrestres na Sencinet
-- 📞 Contacte-me (19) 99445-4587 ou 📩 nicoleavieira@icloud.com
+- 📞 Contacte-me (19) 99445-4587
   
   <div>
     

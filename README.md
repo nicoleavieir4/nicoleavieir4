@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/nicoleavieir4">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicoleavieir4&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleavieir4&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleavieir4&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 
   <div style="display: inline_block"><br>

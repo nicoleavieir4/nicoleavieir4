@@ -16,9 +16,9 @@
 </div>
   
   
-- 📚 Estudante do último semestre de Gestão Empresarial e 1° semestre de Ciência da Computação
-- 🚀 Integrante da 1° turma do Fellowship Web Dev Sirius (Python, SQL, UX e produto, HTML, CSS, Javascript, Java e Django)
-- 📆 Hoje trabalho com redes satelitais e terrestres na Sencinet
+- 📚 Estudante de Ciência da Computação com Ênfase em Fullstack Dev
+- 🚀 Integrante da Digital House no curso de Certified Tech Developer
+- 📆 Hoje trabalho como Analista de Negócios em TI
 - 📞 Contacte-me (19) 99445-4587
   
   <div>

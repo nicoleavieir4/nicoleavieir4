@@ -16,7 +16,7 @@
   
 - 📚 Estudante de Ciência da Computação com Ênfase em Fullstack Dev
 - 🚀 Integrante da Digital House no curso de Certified Tech Developer
-- 📆 Hoje trabalho como Analista de Negócios em TI
+- 📆 Hoje trabalho como Analista de Suporte e Negócios em TI
 - 📞 Contacte-me (19) 99445-4587
   
   <div>

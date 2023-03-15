@@ -10,13 +10,13 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
+   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png">
  
 </div>
   
   
-- 📚 Estudante de Ciência da Computação com Ênfase em Fullstack Dev
-- 🚀 Aluna da Digital House no curso de Certified Tech Developer
-- 📆 Hoje trabalho como Analista de Suporte e Negócios em TI
+- 📚 Estudante de Tecnologia
+- 📆 Hoje trabalho como Software Developer na empresa Orion PSP
 - 📞 Contacte-me (19) 99445-4587
   
   <div>

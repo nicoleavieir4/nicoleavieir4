@@ -19,6 +19,8 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img2.gratispng.com/20180425/ysq/kisspng-postgresql-computer-icons-database-angularjs-tencent-5ae0d0a99e4c21.3589691815246829216484.jpg">
 </div>
 
 ## Estatísticas do GitHub

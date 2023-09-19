@@ -8,7 +8,7 @@
 ## Sobre mim
 
 - 📚 Estudante de Tecnologia
-- 📆 Hoje trabalho como Software Developer na empresa Orion PSP
+- 📆 Software Engineer
 - 📞 Entre em contato: (19) 99445-4587
 
 ## Habilidades
